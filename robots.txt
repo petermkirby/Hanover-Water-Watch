@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanover.mawaterwatch.org/sitemap.xml
